@@ -11,3 +11,4 @@ updates:
       - /drake_poetry
     schedule:
       interval: weekly
+    versioning-strategy: increase
